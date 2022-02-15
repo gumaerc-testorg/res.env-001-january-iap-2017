@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: 'Session 1: Citizen Science and Climate Action'
 uid: 49e35f61-19cd-6058-264d-74acd3e72ae8
 ---

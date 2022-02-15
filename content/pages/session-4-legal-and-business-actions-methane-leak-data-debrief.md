@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: 'Session 4: Legal and Business Actions, Methane Leak Data Debrief'
 uid: 51cf7069-e548-a3ac-92f1-5c983d96ac92
 ---

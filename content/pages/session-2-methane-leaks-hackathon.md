@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: 'Session 2: Methane Leaks Hackathon'
 uid: 47d4b42a-d6c1-7b8f-5d91-d8855bfce784
 ---
@@ -47,7 +49,7 @@ Explore tangible, specific solutions to the methane leak measurement problem, co
 The following photos and video illustrate the nature of the discussions and the process in one of the hackathon groups.
 
 Instructors: Audrey Schulman ([HEET](https://www.heetma.org/)), Zeyneb Magavi ([Mothers Out Front](http://www.mothersoutfront.org/))
-{{< image-gallery id="47d4b42a-d6c1-7b8f-5d91-d8855bfce784_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017/" >}}
+{{< image-gallery id="47d4b42a-d6c1-7b8f-5d91-d8855bfce784_nanogallery2" baseUrl="/courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017/" >}}
 {{< image-gallery-item href="b3194aef20e72e7c6d1fb592b33e88ae_1_hack_handheld.jpg" data-ngdesc="Instructor Nathan Phillips explains the use of a handheld monitor to measure the concentration of methane in air around a leak. Photo courtesy of Marilyn Humphries / Salem Alliance for the Environment (SAFE)." text="Instructor Nathan Phillips explains the use of a handheld monitor to measure the concentration of methane in air around a leak." >}}
 {{< image-gallery-item href="5856a34cf8acb97f03e05fe17ec4c19b_2_hack_purger.jpg" data-ngdesc="Hackathon participants work on how to adapt the bar hole purger (a familiar tool for natural gas crews) to measure gas leak volume. Photo courtesy of Marilyn Humphries / Salem Alliance for the Environment (SAFE)." text="Hackathon participants work on how to adapt the bar hole purger (a familiar tool for natural gas crews) to measure gas leak volume." >}}
 {{< image-gallery-item href="f4b1372d6d2ac459d6a0306283ab88e7_3_hack_purger.jpg" data-ngdesc="The head of a bar hole purger. Photo courtesy of Marilyn Humphries / Salem Alliance for the Environment (SAFE)." text="The head of a bar hole purger." >}}

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: 'Session 3: Methane Leaks Field Trip "Safari"'
 uid: 45a107c6-04ea-1aa3-19ae-8bd2f081d2cc
 ---
