@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 3: Methane Leaks Field Trip "Safari"'
 parent_type: SupplementalResourceSection
+parent_uid: 45a107c6-04ea-1aa3-19ae-8bd2f081d2cc
 resourcetype: Other
 title: leak_safari_data.kml
 uid: b13769ce-9ee3-49f9-d8ef-3d613f94f805

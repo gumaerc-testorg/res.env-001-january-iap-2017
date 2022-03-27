@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Session 1: Citizen Science and Climate Action'
 parent_type: SupplementalResourceSection
+parent_uid: 49e35f61-19cd-6058-264d-74acd3e72ae8
 resourcetype: Document
 title: 'Climate Action Hands-On: Session 1.2, Natural Gas Leaks'
 uid: a7efbad9-a2f0-c509-61ce-43baafb9432a

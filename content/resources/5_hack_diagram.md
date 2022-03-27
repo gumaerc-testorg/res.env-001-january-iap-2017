@@ -17,6 +17,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Session 2: Methane Leaks Hackathon'
 parent_type: SupplementalResourceSection
+parent_uid: 47d4b42a-d6c1-7b8f-5d91-d8855bfce784
 resourcetype: Image
 title: 5_hack_diagram.jpg
 uid: 26e5f405-b840-3165-ce3d-a649c74e10fb
