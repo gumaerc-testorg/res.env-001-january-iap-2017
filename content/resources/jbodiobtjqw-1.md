@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017/cd5c27a1eb75b0b6fbe4d3b1b3e92de4_jBoDIObtJQw.pdf
+file: /courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017/cd5c27a1eb75b0b6fbe4d3b1b3e92de4_jBoDIObtJQw.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

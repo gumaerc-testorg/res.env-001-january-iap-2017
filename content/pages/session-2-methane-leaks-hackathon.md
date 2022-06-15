@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page describes the objectives and structure of the "Methane Leaks
+  Hackathon session, and includes video highlights of the session.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: 'Session 2: Methane Leaks Hackathon'
@@ -21,7 +23,7 @@ Instructional Approach:
 Part 1: More About Methane Leaks
 --------------------------------
 
-A brief lecture and discussion about methane leaks, building on [Session 1]({{< baseurl >}}/pages/session-1-citizen-science-and-climate-action), to orient all hackathon participants to the nature of the challenge. 
+A brief lecture and discussion about methane leaks, building on {{% resource_link 49e35f61-19cd-6058-264d-74acd3e72ae8 "Session 1" %}}, to orient all hackathon participants to the nature of the challenge. 
 
 Instructors: [Nathan Phillips](https://www.bu.edu/earth/people/faculty/nathan-phillips/) (Boston University), Audrey Schulman ([HEET](https://www.heetma.org/))
 

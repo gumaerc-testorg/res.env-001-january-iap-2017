@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page describes the objectives and structure of the "Legal and Business
+  Actions, Methane Leak Data Debrief" session, and includes videos.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: 'Session 4: Legal and Business Actions, Methane Leak Data Debrief'
@@ -31,7 +33,7 @@ Learn how better measurement of carbon footprints, as embodied in products and s
 
 {{< resource 84117568-0461-f034-42ea-a5f9d69043ba >}}
 
-Slides: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Fixing the carbon footprint (PDF - 1.4MB)]({{< baseurl >}}/resources/mitres_env_001iap17_ses4-2)
+Slides: {{% resource_link 6716a40c-5a61-b4e2-6fe1-fbcf288d111f "Fixing the carbon footprint (PDF - 1.4MB)" %}}
 
 Part 3: Debrief on Methane Leak Data Field Trip
 -----------------------------------------------

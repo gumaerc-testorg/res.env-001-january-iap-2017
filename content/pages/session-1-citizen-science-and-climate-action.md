@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page describes the objectives and structure of the Citizen Science
+  and Climate Action session, and includes videos and other materials.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: 'Session 1: Citizen Science and Climate Action'
@@ -26,7 +28,7 @@ Outline:
 
 *   Community science: Why climate science needs a community approach (Britta Voss)
     *   Public disconnect from research and researchers, need for sustained & geographically distributed environmental monitoring, practical need to address immediate challenges facing frontline communities.
-    *   Slides: [Community Science (PDF - 1.2MB)]({{< baseurl >}}/resources/mitres_env_001iap17_ses1-1)
+    *   Slides: {{% resource_link d85fb96d-d199-997c-fdbb-9326df015a2a "Community Science (PDF - 1.2MB)" %}}
 *   Renegotiating Expertise: Public Lab (Jeff Warren)
     *   What are the objectives, how does it work, who participates, who sets the agenda, what types of questions can be answered, what are the challenges, how is it different from / complementary to "traditional" research.
     *   [Lecture slides and speaker notes](https://publiclab.org/notes/warren/01-18-2017/renegotiating-expertise-a-talk-at-climatex-mit)
@@ -47,7 +49,7 @@ Outline:
 *   How are leaks detected, tracked, and repaired?
 *   How can citizens get engaged?
 
-Slides: [Methane Gas Leaks (PDF - 4.5MB)]({{< baseurl >}}/resources/mitres_env_001iap17_ses1-2_gasleaks)
+Slides: {{% resource_link a7efbad9-a2f0-c509-61ce-43baafb9432a "Methane Gas Leaks (PDF - 4.5MB)" %}}
 
 Further reading on gas leaks:
 
