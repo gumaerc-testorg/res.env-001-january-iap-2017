@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This page summarizes the course objectives and topics for each session.
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Syllabus
 uid: c881357a-7106-6a96-50d6-4ef29715ad72
 ---

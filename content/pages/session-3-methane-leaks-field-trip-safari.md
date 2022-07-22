@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page describes the objectives and structure of the Methane Leaks
+  Field Trip "Safari" session, and includes videos and other materials.
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: 'Session 3: Methane Leaks Field Trip "Safari"'
 uid: 45a107c6-04ea-1aa3-19ae-8bd2f081d2cc
 ---
@@ -26,7 +30,7 @@ This video shows some highlights of one group's leak safari.
 
 Data collected:
 
-*   [Earth browser format (e.g. Google Earth) (KML)]({{< baseurl >}}/resources/leak_safari_data-1)
-*   [Raw data (DAT - 7.0MB)]({{< baseurl >}}/resources/leak_safari_data)
+*   {{% resource_link b13769ce-9ee3-49f9-d8ef-3d613f94f805 "Earth browser format (e.g. Google Earth) (KML)" %}}
+*   {{% resource_link c4211189-cec5-b0ca-0833-e6b190fa3ca8 "Raw data (DAT - 7.0MB)" %}}
 
 News article about the leak safari session: Takemura, Alison. "[Climate Science Takes to the Streets](http://news.mit.edu/2017/climate-science-takes-streets-gas-leaks-0228)," _MIT News_, February 28, 2017.
