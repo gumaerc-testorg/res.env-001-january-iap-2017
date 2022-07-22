@@ -10,6 +10,7 @@ image_metadata:
   image-alt: Photo of a paper flip chart, listing different variables that affect
     leak measurement and some ideas for how to solve the measurement problem.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Session 2: Methane Leaks Hackathon'
 parent_type: SupplementalResourceSection
@@ -19,4 +20,3 @@ title: 4_hack_chart.jpg
 uid: ee29a93b-b9d3-04ab-7d3a-86f178b6fede
 ---
 A brainstorming chart from one of the hackathon groups. Photo by MIT OpenCourseWare.
-

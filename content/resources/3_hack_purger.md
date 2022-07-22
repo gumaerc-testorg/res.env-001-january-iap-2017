@@ -11,6 +11,7 @@ image_metadata:
   image-alt: Close up photo of the top piece of the bar hole purger, highlighting
     its input, output, and dial.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Session 2: Methane Leaks Hackathon'
 parent_type: SupplementalResourceSection
@@ -20,4 +21,3 @@ title: 3_hack_purger.jpg
 uid: f4b1372d-6d2a-c459-d6a0-306283ab88e7
 ---
 The head of a bar hole purger. Photo courtesy of Marilyn Humphries / Salem Alliance for the Environment (SAFE).
-

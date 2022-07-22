@@ -14,6 +14,7 @@ image_metadata:
     hole into the ground some distance away, with purger going into hole and several
     variables listed.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Session 2: Methane Leaks Hackathon'
 parent_type: SupplementalResourceSection
@@ -23,4 +24,3 @@ title: 5_hack_diagram.jpg
 uid: 26e5f405-b840-3165-ce3d-a649c74e10fb
 ---
 A group-generated diagram explores how factors like distance from the pipe leak to the sampling point, and soil characteristics, can influence the gas measurement. See the last few minutes of the video. Photo by MIT OpenCourseWare.
-

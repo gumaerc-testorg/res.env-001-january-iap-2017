@@ -13,6 +13,7 @@ image_metadata:
   image-alt: Photo of a long  "T" shaped tool made of metal tubes, with a round analog
     dial display on the top piece.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Session 2: Methane Leaks Hackathon'
 parent_type: SupplementalResourceSection
@@ -22,4 +23,3 @@ title: 2_hack_purger.jpg
 uid: 5856a34c-f8ac-b97f-03e0-5fe17ec4c19b
 ---
 Hackathon participants work on how to adapt the bar hole purger (a familiar tool for natural gas crews) to measure gas leak volume. Photo courtesy of Marilyn Humphries / Salem Alliance for the Environment (SAFE).
-

@@ -16,10 +16,10 @@ image_metadata:
   image-alt: Map image with red line showing the path of van, and some very high vertical
     spikes.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: res-env-001iap17-th.jpg
 uid: f0ca7ff1-089e-461b-6734-d6a8bdb0ef76
 ---
 The class drove through some urban streets in a van equipped with a GPS-linked methane analyzer. The height of the red spikes are proportional to measured methane concentrations. Lower left is near the MIT campus, with the so-called "Alps of Somerville" to the upper right. Image courtesy of Audrey Schulman / HEET.
-
