@@ -3,6 +3,7 @@ content_type: resource
 description: A brainstorming chart from one of the hackathon groups. Photo by MIT
   OpenCourseWare.
 file: /courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017/ee29a93bb9d304ab7d3a86f178b6fede_4_hack_chart.jpg
+file_size: 62784
 file_type: image/jpeg
 image_metadata:
   caption: A brainstorming chart from one of the hackathon groups.

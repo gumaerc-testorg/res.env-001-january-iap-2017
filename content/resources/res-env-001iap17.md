@@ -5,6 +5,7 @@ description: The class drove through some urban streets in a van equipped with a
   concentrations. Lower left is near the MIT campus, with the so-called "Alps of Somerville"
   to the upper right. Image courtesy of Audrey Schulman / HEET.
 file: /courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017/6c42c4fa9fd610ae5240d92dacf971a5_res-env-001iap17.jpg
+file_size: 35505
 file_type: image/jpeg
 image_metadata:
   caption: Participants in this class drove through some urban streets in a van equipped

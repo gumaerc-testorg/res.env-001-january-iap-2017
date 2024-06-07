@@ -4,6 +4,7 @@ description: Instructor Nathan Phillips explains the use of a handheld monitor t
   measure the concentration of methane in air around a leak. Photo courtesy of Marilyn
   Humphries / Salem Alliance for the Environment (SAFE).
 file: /courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017/b3194aef20e72e7c6d1fb592b33e88ae_1_hack_handheld.jpg
+file_size: 164870
 file_type: image/jpeg
 image_metadata:
   caption: Instructor Nathan Phillips explains the use of a handheld monitor to measure
