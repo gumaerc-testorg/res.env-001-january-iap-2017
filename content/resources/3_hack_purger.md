@@ -2,7 +2,7 @@
 content_type: resource
 description: The head of a bar hole purger. Photo courtesy of Marilyn Humphries /
   Salem Alliance for the Environment (SAFE).
-file: /courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017/f4b1372d6d2ac459d6a0306283ab88e7_3_hack_purger.jpg
+file: /ol-ocw-studio-app/courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017/f4b1372d6d2ac459d6a0306283ab88e7_3_hack_purger.jpg
 file_size: 193193
 file_type: image/jpeg
 image_metadata:
