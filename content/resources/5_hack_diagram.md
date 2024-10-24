@@ -3,7 +3,7 @@ content_type: resource
 description: A group-generated diagram explores how factors like distance from the
   pipe leak to the sampling point, and soil characteristics, can influence the gas
   measurement. See the last few minutes of the video. Photo by MIT OpenCourseWare.
-file: /courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017/26e5f405b8403165ce3da649c74e10fb_5_hack_diagram.jpg
+file: /ol-ocw-studio-app/courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017/26e5f405b8403165ce3da649c74e10fb_5_hack_diagram.jpg
 file_size: 53709
 file_type: image/jpeg
 image_metadata:

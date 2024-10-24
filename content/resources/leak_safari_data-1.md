@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This special file contains information regarding Earth browser format.
-file: /courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017/b13769ce9ee349f9d8ef3d613f94f805_leak_safari_data.kml
+file: /ol-ocw-studio-app/courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017/b13769ce9ee349f9d8ef3d613f94f805_leak_safari_data.kml
 file_size: 559981
 file_type: text/xml
 learning_resource_types: []
