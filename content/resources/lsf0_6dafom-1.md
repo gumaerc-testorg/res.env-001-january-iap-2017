@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017/831a0a9e604b461aea50e056fe930d47_lsf0_6DAFOM.pdf
+file: /courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017/831a0a9e604b461aea50e056fe930d47_lsf0_6DAFOM.pdf
 file_size: 73335
 file_type: application/pdf
 learning_resource_types: []
