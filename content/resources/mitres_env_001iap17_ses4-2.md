@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Fixing the carbon footprint.
 draft: false
-file: /courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017/6716a40c5a61b4e26fe1fbcf288d111f_MITRES_ENV_001IAP17_ses4.2.pdf
+file: /ol-ocw-studio-app/courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017/6716a40c5a61b4e26fe1fbcf288d111f_MITRES_ENV_001IAP17_ses4.2.pdf
 file_size: 1505859
 file_type: application/pdf
 image_metadata:
