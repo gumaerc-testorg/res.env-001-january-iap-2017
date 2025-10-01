@@ -18,7 +18,7 @@ Session structure: Two-hour classroom session, consisting of several lecture seg
 Part 1: Environmental Legal Action, Scientific Evidence and Citizen Data
 ------------------------------------------------------------------------
 
-Instructor: Chris Nidel, Esq. ([environmental attorney](http://www.nidellaw.com/), [MITACAL](http://www.mitacal.org/))
+Instructor: Chris Nidel, Esq. ({{% resource_link "8ac5ad2d-6c71-48bd-bd80-474544a1423c" "environmental attorney" %}}, {{% resource_link "c1339afd-5850-4e06-8e85-06da78949957" "MITACAL" %}})
 
 Learn about how citizen-collected data can be used in environmental legal cases. For instance, how do courts decide whether particular data is admissable as evidence?
 
@@ -27,7 +27,7 @@ Learn about how citizen-collected data can be used in environmental legal cases.
 Part 2: Bringing Climate Data into Business and Personal Choices — Fixing the Carbon Footprint
 ----------------------------------------------------------------------------------------------
 
-Instructor: Ory Zik ([Greenometry](https://opencorporates.com/companies/us_ma/001259502))
+Instructor: Ory Zik ({{% resource_link "833434a3-2d2d-4402-9d7e-fba5cce029ef" "Greenometry" %}})
 
 Learn how better measurement of carbon footprints, as embodied in products and services, can bring market forces more effectively to bear on the climate crisis.
 
@@ -40,7 +40,7 @@ Part 3: Debrief on Methane Leak Data Field Trip
 
 Display and discuss the prior day's field data collection on methane gas leaks. Consider the strengths and weaknesses of the methods used, and implications for the next generation of tools. Discuss the overall state of methane leak measurement, fixes, and policies.
 
-Instructors: [Nathan Phillips](https://www.bu.edu/earth/people/faculty/nathan-phillips/) (Boston University), Audrey Schulman ([HEET](https://www.heetma.org/))
+Instructors: {{% resource_link "f2104c40-18d3-4ffe-a4fb-ce41a3f7f56f" "Nathan Phillips" %}} (Boston University), Audrey Schulman ({{% resource_link "1843d92c-644c-4736-8c1b-b37423e6c5e7" "HEET" %}})
 
 {{< resource 9e4af4db-b436-cc22-02eb-d20656a3f619 >}}
 
